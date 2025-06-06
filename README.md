@@ -1,1 +1,1 @@
-# cpp_intermidate for study :)-
+# cpp_intermediate for study :)-
